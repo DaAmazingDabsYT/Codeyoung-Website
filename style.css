@@ -1,0 +1,40 @@
+*{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+.oc{
+    background-color: rgb(246, 108, 40);
+}
+.navbar .navbar-nav>li>a:hover{
+    background-color: white;
+    color:rgb(246, 108, 40);
+    cursor: pointer;
+}
+.jumbotron{
+    background-color:rgb(246, 108, 40);
+    padding:100px 3%;
+    color:white;
+}
+.jumbotron h1{
+    font-size:70px;
+}
+.jumbotron h4{
+    margin-top:10px;
+    margin-bottom:25px;
+}
+.about{
+    padding-inline:3%;
+}
+.abtcdy h1{
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+.abtcdy h4{
+    margin-bottom: 30px;
+}
+
+.abtcdy2 img{
+    height:350px;
+}
